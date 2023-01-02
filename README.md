@@ -1,32 +1,25 @@
 ### Hi there 👋
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 
 ## 1. GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ishan-aggarwal&show_icons=true)
 
 ## 2. Most Used Languages
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-aggarwal&theme=blue-green)
 
-## 3. Contributors Badge
-
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
-
-## 4. Random Joke Generator
+## 3. Random Joke Generator
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 5. Profile View Counter
+## 4. Profile View Counter
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ishan-aggarwal)
 
 ### Repository View Counter - HITS
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ishan-aggarwal/Python)
 
 
 
