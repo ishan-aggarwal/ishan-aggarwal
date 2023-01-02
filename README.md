@@ -17,11 +17,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ishan-aggarwal)
 
-### Repository View Counter - HITS
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ishan-aggarwal/)
-
-
 
 <!--
 **ishan-aggarwal/ishan-aggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,4 +31,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Repository View Counter - HITS
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ishan-aggarwal/)
+
+
 -->
