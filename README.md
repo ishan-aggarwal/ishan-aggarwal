@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h1 align='center'>
   Hi there 👋 I'm Ishan 👨‍💻
 </h1>
@@ -36,15 +33,17 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-aggarwal&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+<p align='center'>
+    ## Random Joke Generator
 
-## Random Joke Generator
+    ![Jokes Card](https://readme-jokes.vercel.app/api)
+</p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p align='center'>
+    ## Profile View Counter
 
-## Profile View Counter
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=ishan-aggarwal)
-
+    ![Profile View Counter](https://komarev.com/ghpvc/?username=ishan-aggarwal)
+</p>
 
 <!--
 **ishan-aggarwal/ishan-aggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
