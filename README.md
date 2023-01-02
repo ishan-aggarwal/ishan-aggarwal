@@ -29,21 +29,14 @@
 </p>
 
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-aggarwal&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+## Random Joke Generator
 
-<p align='center'>
-    ## Random Joke Generator
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-    ![Jokes Card](https://readme-jokes.vercel.app/api)
-</p>
 
-<p align='center'>
-    ## Profile View Counter
+## Profile View Counter
 
-    ![Profile View Counter](https://komarev.com/ghpvc/?username=ishan-aggarwal)
-</p>
+![Profile View Counter](https://komarev.com/ghpvc/?username=ishan-aggarwal)
 
 <!--
 **ishan-aggarwal/ishan-aggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
