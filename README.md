@@ -16,7 +16,9 @@
   <a href="https://www.instagram.com/ishan.agg/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
+  <a href="https://leetcode.com/ishan_aggarwal/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />        
+  </a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
