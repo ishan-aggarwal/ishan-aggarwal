@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A passionate Full Stack Developer from India 🇮🇳.
+  A passionate Full Stack Developer from India 🇮🇳, building digital solutions and exploring the wonders of code.
 </p>
 
 <p align='center'>
@@ -19,40 +19,45 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ishan-aggarwal&show_icons=true&theme=dark" width="400"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishan-aggarwal&show_icons=true&theme=dark" alt="GitHub Stats" width="70%">
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-aggarwal&show_icons=true&theme=dark" width="400"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-aggarwal&show_icons=true&theme=dark" alt="Top Languages" width="70%">
 </p>
 
-## About Me
+## 🚀 About Me
 
 - 🔭 I’m currently working on exciting Full Stack projects.
 - 🌱 I’m always learning and exploring new technologies.
 - 💬 Ask me about anything tech-related or for some coding tips!
 
-## Featured Articles
+## 📝 Featured Articles
 
 Check out my latest tech articles on [Medium](https://medium.com/@ishan-aggarwal).
 
-## Random Joke Generator
+## 😄 Fun Facts
+
+- I believe in the power of community and collaboration.
+- I enjoy solving algorithmic challenges on LeetCode.
+
+## 🤖 Random Joke Generator
 
 Brighten your day with a laugh! ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 Keep an eye on my GitHub activity and contributions.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ishan-aggarwal&show_icons=true)
 
-## Most Used Languages
+## 📈 Most Used Languages
 
 See what languages I'm most proficient in.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-aggarwal&theme=blue-green)
 
-## Profile View Counter
+## 👀 Profile View Counter
 
 Let's see how many people have visited my profile!
 
